@@ -1,0 +1,13 @@
+Table Ships:
+    ID
+    NameShip
+    IMO
+    MMSI
+    TypeShip
+    Country
+    PortShip
+    WeightShip
+    MerShip: 101 - 117
+    LatShip: 8 - 23
+    TimeGetData
+
